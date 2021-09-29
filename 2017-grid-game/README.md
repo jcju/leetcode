@@ -3,8 +3,8 @@
 
 Difficulty: **Medium**
 
-Runtime: **152 ms**, faster than **83.33%** of C++ submissions.  
-Memory Usage: **62.8 MB**, less than **91.67%** of C++ submissions.
+Runtime: **152 ms**, faster than **85.35%** of C++ submissions.  
+Memory Usage: **62.7 MB**, less than **95.93%** of C++ submissions.
 
 <br/>  
 You don't need to write a func to calculate optimal path & score for second robot, which will cause TLE.  

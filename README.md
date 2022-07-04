@@ -3,7 +3,7 @@
 Some personal "curated" solutions & ideas.  
 
 <br/>
-  
+
 | # | Title | Solution | Difficulty |Time Beat|Mem Beat|
 |---| ----- | -------- | ---------- |------|------|
 |50|[Pow(x, n)](./0050-pow-x-n/) | [C++](./0050-pow-x-n/50.pow-x-n.cpp)|Medium|100.0%|81.56%|
@@ -11,6 +11,7 @@ Some personal "curated" solutions & ideas.
 |78|[Subsets](./0078-subsets/) | [C++](./0078-subsets/78.subsets.cpp)|Medium|100.0%|83.97%|
 |81|[Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii/) | [C++](./0081-search-in-rotated-sorted-array-ii/81.search-in-rotated-sorted-array-ii.cpp)|Medium|100.0%|99.50%|
 |258|[Add Digits](./0258-add-digits/) | [C++](./0258-add-digits/258.add-digits.cpp)|Easy|100.0%|74.63%|
+|376|[Wiggle Subsequence](./0376-wiggle-subsequence/) | [C++](./0376-wiggle-subsequence/376.wiggle-subsequence.cpp)|Medium|100.0%|75.53%|
 |946|[Validate Stack Sequences](./0946-validate-stack-sequences/) | [C++](./0946-validate-stack-sequences/946.validate-stack-sequences.cpp)|Medium|83.79%|100.0%|
 |1029|[Two City Scheduling](./1029-two-city-scheduling/) | [Rust](./1029-two-city-scheduling/1029.two-city-scheduling.rs)|Medium|100.0%|100.0%|
 |1249|[Minimum Remove to Make Valid Parentheses](./1249-minimum-remove-to-make-valid-parentheses/) | [C++](./1249-minimum-remove-to-make-valid-parentheses/1249.minimum-remove-to-make-valid-parentheses.cpp)|Medium|64.78%|99.96%|
